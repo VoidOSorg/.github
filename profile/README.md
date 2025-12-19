@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://atlasos.net" target="_blank"><img src="https://i.ibb.co/WwMGX8t/Frame-90.png" alt="Atlas" width="800"></a>
+  <a target="_blank"><img src="https://i.ibb.co/WwMGX8t/Frame-90.png" alt="VoidOS" width="800"></a>
 </h1>
 <p align="center">
     <img alt="Release" src="https://img.shields.io/badge/PRE%20TWEAKED-FFFFF?style=for-the-badge" />
