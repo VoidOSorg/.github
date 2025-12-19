@@ -9,7 +9,11 @@
 <p align="center">A pre-tweaked playbook for Windows 10 designed to optimize your system for gaming and productivity, enhancing performance, responsiveness, and workflow efficiency.</p>
 
 <p align="center">
-  <img href="https://discord.gg/ZfHnhRHFgN" alt="Discord" src="https://img.shields.io/badge/Discord-Server-blue?logo=discord" />
+  <a href="https://discord.gg/ZfHnhRHFgN">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Server-blue?logo=discord" />
+  </a>
   •
-  <img href="https://github.com/VoidOSorg/playbook" alt="Playbook" src="https://img.shields.io/badge/PlayBook-repo-blue?logo=github" />
+  <a href="https://github.com/VoidOSorg/playbook">
+  <img alt="Playbook" src="https://img.shields.io/badge/PlayBook-repo-blue?logo=github" />
+  </a>
 </p>
