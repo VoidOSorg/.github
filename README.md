@@ -3,11 +3,10 @@
 </h1>
 
 <p align="center">
-  <img alt="Release" src="https://img.shields.io/badge/PRE%20TWEAKED-FFFFF?style=for-the-badge" />
-  <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2010-0078D7?style=for-the-badge" />
+  <img alt="Target" src="https://img.shields.io/badge/Windows%2010-0078D7?style=for-the-badge" />
 </p>
 
-<p align="center">A pre-tweaked playbook for Windows 10 designed to optimize your system for gaming and productivity, enhancing performance, responsiveness, and workflow efficiency.</p>
+<p align="center">Pre-tweaked Windows 10 playbooks for gaming and productivity optimization.</p>
 
 <p align="center">
   <a href="https://discord.gg/ZfHnhRHFgN" target="_blank">
@@ -19,4 +18,4 @@
   </a>
 </p>
 
-> This repository contains the **organization profile** (the description shown on the VoidOS org page). The actual profile content lives in [`profile/README.md`](profile/README.md) — look there if you came to edit the org description.
+This repository hosts the organization profile. The description shown on the VoidOS organization page is defined in [`profile/README.md`](profile/README.md).

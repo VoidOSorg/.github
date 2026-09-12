@@ -3,55 +3,40 @@
 </h1>
 
 <p align="center">
-  <img alt="Release" src="https://img.shields.io/badge/PRE%20TWEAKED-FFFFF?style=for-the-badge" />
-  <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2010-0078D7?style=for-the-badge" />
+  <img alt="Target" src="https://img.shields.io/badge/Windows%2010-0078D7?style=for-the-badge" />
   <img alt="License" src="https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <strong>VoidOS</strong> — a pre-tweaked Windows 10 playbook designed to optimize your system for
-  <strong>gaming</strong> and <strong>productivity</strong>, enhancing performance, responsiveness and workflow efficiency.
+  Pre-tweaked Windows 10 playbooks designed to optimize systems for gaming and productivity —
+  reduced latency, lower resource usage and a consistent visual identity.
 </p>
 
 ---
 
-## 📦 Our Projects
+## Projects
 
-<p align="center">
-  <a href="https://github.com/VoidOSorg/playbook">
-    <img alt="Playbook" src="https://img.shields.io/badge/Playbook-6A1FB9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VoidOSorg/VoidOS_ISO">
-    <img alt="VoidOS ISO" src="https://img.shields.io/badge/VoidOS%20ISO-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VoidOSorg/Website">
-    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+| Project | Description |
+|---------|-------------|
+| [**Playbook**](https://github.com/VoidOSorg/playbook) | AME Wizard playbook: automated debloating, service and registry tuning, power configuration and branding. |
+| [**VoidOS ISO**](https://github.com/VoidOSorg/VoidOS_ISO) | Installable ISO image built around the playbook optimizations. |
+| [**Website**](https://github.com/VoidOSorg/Website) | Official project website and documentation. |
 
-- 🎮 **[Playbook](https://github.com/VoidOSorg/playbook)** — the pre-tweaked AME Wizard playbook (this is what you want).
-- 💿 **[VoidOS ISO](https://github.com/VoidOSorg/VoidOS_ISO)** — the VoidOS experience, ready as an installable ISO.
-- 🌐 **[Website](https://github.com/VoidOSorg/Website)** — the project website.
+## Approach
 
-## 🛠️ What we do
+All optimizations are applied automatically through a structured, reversible task pipeline:
 
-We build **pre-configured optimizations** for Windows 10 that:
+- **Debloating** — removal of Edge, OneDrive, Teams and unused AppX packages.
+- **System tuning** — service configuration, registry tweaks, scheduler and power-plan settings.
+- **Latency reduction** — background-process and timer optimizations aimed at gaming.
+- **Branding** — consistent themes, cursors and wallpaper across installations.
 
-- 🚀 Improve **gaming performance** (FPS, latency, responsiveness)
-- ⚡ Streamline **productivity** workflows
-- 🧹 Remove **bloatware** and unnecessary background processes
-- 🎨 Apply a clean, consistent **VoidOS visual identity**
-
-Everything is **automated** — no manual tweaking, registry hunting, or risky downloads.
-
-## 💬 Community
+## Community
 
 <p align="center">
   <a href="https://discord.gg/ZfHnhRHFgN">
-    <img alt="Discord" src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-Get support, share feedback and follow development. Contributions and suggestions are always welcome — open an issue or reach out on Discord.
+Support, feedback and contributions are welcome via issues, pull requests or the Discord server.
