@@ -1,15 +1,22 @@
 <h1 align="center">
-  <a href="http://atlasos.net" target="_blank"><img src="https://i.ibb.co/WwMGX8t/Frame-90.png" alt="Atlas" width="800"></a>
+  <a href="https://github.com/VoidOSorg" target="_blank"><img src="https://i.ibb.co/WwMGX8t/Frame-90.png" alt="VoidOS" width="800"></a>
 </h1>
+
 <p align="center">
-    <img alt="Release" src="https://img.shields.io/badge/PRE%20TWEAKED-FFFFF?style=for-the-badge" />
-    <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2010-0078D7?style=for-the-badge" />
+  <img alt="Release" src="https://img.shields.io/badge/PRE%20TWEAKED-FFFFF?style=for-the-badge" />
+  <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2010-0078D7?style=for-the-badge" />
 </p>
 
 <p align="center">A pre-tweaked playbook for Windows 10 designed to optimize your system for gaming and productivity, enhancing performance, responsiveness, and workflow efficiency.</p>
 
 <p align="center">
-  <img href="https://discord.gg/ZfHnhRHFgN" alt="Discord" src="https://img.shields.io/badge/Discord-Server-blue?logo=discord" />
+  <a href="https://discord.gg/ZfHnhRHFgN" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Server-blue?logo=discord" />
+  </a>
   •
-  <img href="https://github.com/VoidOSorg/playbook" alt="Playbook" src="https://img.shields.io/badge/PlayBook-repo-blue?logo=github" />
+  <a href="https://github.com/VoidOSorg/playbook" target="_blank">
+    <img alt="Playbook" src="https://img.shields.io/badge/PlayBook-repo-blue?logo=github" />
+  </a>
 </p>
+
+> This repository contains the **organization profile** (the description shown on the VoidOS org page). The actual profile content lives in [`profile/README.md`](profile/README.md) — look there if you came to edit the org description.
