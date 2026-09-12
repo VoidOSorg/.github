@@ -20,7 +20,6 @@
 |---------|-------------|
 | [**Playbook**](https://github.com/VoidOSorg/playbook) | AME Wizard playbook: automated debloating, service and registry tuning, power configuration and branding. |
 | [**VoidOS ISO**](https://github.com/VoidOSorg/VoidOS_ISO) | Installable ISO image built around the playbook optimizations. |
-| [**Website**](https://github.com/VoidOSorg/Website) | Official project website and documentation. |
 
 ## Approach
 
